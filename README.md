@@ -2,6 +2,14 @@
 
 Idee da https://github.com/bunburya/fitness_tracker_data_parsing.git
 
+# Premessa alle activities
+
+https://www.concept2.it/indoor-rowers/allenamento/suggerimenti-informazioni-generali/stretching
+
+![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/dab6dfaa11cc42b2d2a02d787fc97a97afcf1040/Data/Images/Calendario_Annuale.JPG)
+
+# Pianificazione alle activities
+
 ![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/dab6dfaa11cc42b2d2a02d787fc97a97afcf1040/Data/Images/Calendario_Annuale.JPG)
 
 **Allenamento** – Adatta il tuo allenamento a seconda della distanza e dell’intensità delle gare imminenti. Dovrai allenarti anche al tuo passo gara per sviluppare la sensibilità all’andatura per la tua competizione. Includi lavori più brevi e più duri per aumentare il livello di intensità, nonché lavori più lunghi e più facili per migliorare la resistenza.
