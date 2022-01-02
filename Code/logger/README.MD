@@ -1,1 +1,1 @@
-# Folder contains customized code to manage text file LOG
+# This folder contains customized code to manage text file LOG
