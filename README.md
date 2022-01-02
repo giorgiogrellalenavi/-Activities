@@ -1,6 +1,6 @@
 # Obiettivo tracciatura activities
 
-Idee da https://github.com/bunburya/fitness_tracker_data_parsing.git
+Idee SCRIPTs da https://github.com/bunburya/fitness_tracker_data_parsing.git
 
 # Premessa alle activities
 
