@@ -2,6 +2,10 @@
 
 ![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/dab6dfaa11cc42b2d2a02d787fc97a97afcf1040/Data/Images/Calendario_Annuale.JPG)
 
+**Allenamento** – Adatta il tuo allenamento a seconda della distanza e dell’intensità delle gare imminenti. Dovrai allenarti anche al tuo passo gara per sviluppare la sensibilità all’andatura per la tua competizione. Includi lavori più brevi e più duri per aumentare il livello di intensità, nonché lavori più lunghi e più facili per migliorare la resistenza.
+**Attiva** – Mantieniti pronto e riposato in questa fase, e recupera tra una gara e l’altra. Aumenta il carico di lavoro se le gare sono di meno e più distanziate nel tempo.
+**Recupero** – In questa fase includi varietà, divertimento e qualunque andatura ti sembri giusta. Inserisci molto stretching. Resta in sintonia con il tuo sport facendo qualche lavoro continuo a un’andatura comoda.
+**Preparazione** – Metti in primo piano un lavoro più lungo, più continuo. Lo scopo è quello di sviluppare una buona basa di esercizio fisico cardio e di adattare i muscoli ai movimenti specifici del tuo sport. Includi tanti esercizi per lo stretching, la flessibilità e il potenziamento.
 # Activities stored in TCX files
 
 The root element is a **TrainingCenterDatabase** element, which contains an **Activities** element. 
