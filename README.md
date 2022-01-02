@@ -12,6 +12,6 @@ as well as a **Track** element which contains many **Trackpoint** elements,
 
 each representing a data point that was reported by the device, 
 
-and which may (or may not) contain, among other things, **latitude** and **longitude**, **altitude**, **heart rate**, **cadence**, **distance** and **speed** data. 
+and which may (or may not) contain, among other things, **time**, **latitude** and **longitude**, **altitude**, **heart rate**, **cadence**, **distance** and **speed** data. 
 
-! (Data/Images/XML_Tree_in_TCX_files.JPG)
+![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/c82c15d02e62a893e4074f230caae70925b38ec6/Data/Images/hierarchy_TCX_files.JPG)
