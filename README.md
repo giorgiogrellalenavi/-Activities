@@ -6,7 +6,10 @@ Idee da https://github.com/bunburya/fitness_tracker_data_parsing.git
 
 https://www.concept2.it/indoor-rowers/allenamento/suggerimenti-informazioni-generali/stretching
 
-![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/dab6dfaa11cc42b2d2a02d787fc97a97afcf1040/Data/Images/Calendario_Annuale.JPG)
+![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/de983c908bd594b29e7956391c84638ea29042f3/Data/Images/stretching_1_6.JPG)
+
+![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/de983c908bd594b29e7956391c84638ea29042f3/Data/Images/stretching_7_9.JPG)
+
 
 # Pianificazione alle activities
 
