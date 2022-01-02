@@ -1,3 +1,7 @@
+# Obiettivo tracciatura activities
+
+![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/dab6dfaa11cc42b2d2a02d787fc97a97afcf1040/Data/Images/Calendario_Annuale.JPG)
+
 # Activities stored in TCX files
 
 The root element is a **TrainingCenterDatabase** element, which contains an **Activities** element. 
