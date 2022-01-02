@@ -1,0 +1,681 @@
+2022-01-01 18:49:54,220 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:46:25 end: 2021-12-30 12:46:25
+2022-01-01 18:49:54,221 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:10:58 end: 2021-12-30 12:10:58
+2022-01-01 18:51:02,442 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-01 18:51:02,443 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-01 19:55:49,786 - Webscraper - DEBUG - Garmin - Start: 2021-12-31 12:00:29 - Track start: 2021-12-31 12:00:29 end: 2021-12-31 12:40:33
+2022-01-01 19:55:49,786 - Webscraper - DEBUG - Concept2 - Start: 2021-12-31 12:00:29 - Track start: 2021-12-31 12:01:01 end: 2021-12-31 12:40:57
+2022-01-01 20:01:53,317 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 20:01:53,318 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 20:16:02,600 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 20:16:02,601 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 20:17:01,833 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 20:17:01,834 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 20:54:19,005 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:20:39+00:00
+2022-01-01 20:54:19,581 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:11:00+00:00
+2022-01-01 20:54:20,132 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 20:54:20,147 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 21:00:14,195 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:20:39+00:00
+2022-01-01 21:34:01,673 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:20:39+00:00
+2022-01-01 21:34:11,588 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:11:00+00:00
+2022-01-01 21:34:20,910 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:20:39+00:00
+2022-01-01 21:34:31,131 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:11:00+00:00
+2022-01-01 21:34:34,582 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 21:34:34,583 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:11:00 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 21:48:49,989 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:20:39+00:00
+2022-01-01 21:48:59,899 - Webscraper - DEBUG - LAP - Start: 2021-12-29 13:11:00+00:00
+2022-01-01 21:49:03,294 - Webscraper - DEBUG - Garmin - Start: 2021-12-29 13:20:39 - Track start: 2021-12-29 13:20:39 end: 2021-12-29 14:02:12
+2022-01-01 21:49:03,295 - Webscraper - DEBUG - Concept2 - Start: 2021-12-29 13:11:00 - Track start: 2021-12-29 13:11:01 end: 2021-12-29 13:50:58
+2022-01-01 22:03:35,842 - Webscraper - DEBUG - LAP - Start: 2021-12-31 12:00:29+00:00
+2022-01-01 22:03:44,440 - Webscraper - DEBUG - LAP - Start: 2021-12-31 12:01:00+00:00
+2022-01-01 22:03:47,545 - Webscraper - DEBUG - Garmin - Start: 2021-12-31 12:00:29 - Track start: 2021-12-31 12:00:29 end: 2021-12-31 12:40:33
+2022-01-01 22:03:47,546 - Webscraper - DEBUG - Concept2 - Start: 2021-12-31 12:01:00 - Track start: 2021-12-31 12:01:01 end: 2021-12-31 12:40:57
+2022-01-01 22:10:47,873 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-01 22:10:59,369 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-01 22:11:00,709 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-01 22:11:00,710 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 08:01:37,288 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 08:01:47,657 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 08:01:48,816 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-02 08:01:48,817 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 08:01:48,817 - Webscraper - DEBUG - Garmin vs Concept2 - difference in sec.: -40.0
+2022-01-02 08:49:35,128 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 08:49:44,895 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 08:49:45,757 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-02 08:49:45,758 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 08:49:45,759 - Webscraper - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 08:59:42,102 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 08:59:52,490 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 08:59:53,406 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-02 08:59:53,407 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 08:59:53,407 - Webscraper - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 09:01:05,294 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 09:01:15,547 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 09:01:16,337 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-02 09:01:16,337 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 09:01:16,337 - Webscraper - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 09:09:33,634 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 09:09:42,470 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 09:09:43,302 - Webscraper - DEBUG - Garmin - Start: 2021-12-30 12:00:20 - Track start: 2021-12-30 12:00:20 end: 2021-12-30 12:46:25
+2022-01-02 09:09:43,303 - Webscraper - DEBUG - Concept2 - Start: 2021-12-30 12:01:00 - Track start: 2021-12-30 12:01:01 end: 2021-12-30 12:10:58
+2022-01-02 09:09:43,303 - Webscraper - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 10:10:33,616 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:10:44,917 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 10:10:45,022 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 10:10:45,104 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 10:16:42,847 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:26:44,829 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:27:52,111 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:27:54,016 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 10:27:54,035 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 10:27:54,048 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 10:28:28,415 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:29:03,264 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 10:36:45,375 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:36:45,987 - Webscraper - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 10:36:45,998 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 10:36:46,005 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 10:36:46,011 - Webscraper - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 10:40:07,354 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:40:07,954 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 10:40:07,964 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 10:40:08,018 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 10:40:08,074 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 10:40:08,075 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:10:58
+2022-01-02 10:40:08,076 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 10:40:46,442 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 10:40:47,030 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 10:40:47,041 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 10:40:47,049 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 10:40:47,054 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:17:19,479 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:17:20,040 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:17:20,052 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:17:20,068 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:17:20,133 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:19:37,040 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:19:37,615 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:19:37,627 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:19:37,644 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:19:37,658 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:21:18,887 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:21:19,478 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:21:19,490 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:21:19,511 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:21:19,547 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:29:06,241 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:29:06,242 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:29:06,801 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:29:06,813 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:29:06,813 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:29:06,835 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:29:06,836 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 11:29:06,852 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:29:06,853 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 11:35:07,087 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:35:07,088 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:35:07,648 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:35:07,659 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:35:07,660 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:35:07,666 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:35:07,667 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 11:35:07,672 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:35:07,673 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 11:35:07,680 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 11:35:07,680 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 11:35:07,685 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 11:35:07,686 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 11:35:07,692 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 11:35:07,693 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 11:35:07,698 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 11:35:07,699 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 11:35:07,705 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 11:35:07,706 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 11:35:07,710 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 11:35:07,711 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 11:35:07,719 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 11:35:07,719 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 11:35:07,725 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 11:35:07,725 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 11:35:07,733 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 11:35:07,733 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 11:35:07,739 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 11:35:07,739 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 11:35:07,750 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 11:35:07,750 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 11:35:07,756 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 11:35:07,756 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 11:35:07,764 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 11:35:07,764 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 11:35:07,771 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 11:35:07,772 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 11:35:07,778 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 11:35:07,779 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 11:35:07,785 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 11:35:07,786 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 11:35:07,793 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 11:35:07,794 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 11:35:07,799 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 11:35:07,800 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 11:35:07,808 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 11:35:07,808 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 11:35:07,814 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 11:35:07,815 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 11:35:07,822 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 11:35:07,822 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 11:35:07,828 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 11:35:07,828 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 11:35:07,836 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 11:35:07,836 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 11:35:07,842 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 11:35:07,842 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 11:35:07,849 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 11:35:07,850 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 11:35:07,856 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 11:35:07,857 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 11:35:07,867 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 11:35:07,992 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 11:35:07,992 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:11:00 - Track start: 2021-12-30 13:11:01 end: 2021-12-30 13:40:01
+2022-01-02 11:35:07,993 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -640.0
+2022-01-02 11:42:37,779 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:42:37,779 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:42:38,390 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:42:38,402 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:42:38,403 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:42:38,409 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:42:38,410 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 11:42:38,415 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:42:38,416 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 11:42:38,423 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 11:42:38,424 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 11:42:38,429 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 11:42:38,430 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 11:42:38,437 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 11:42:38,437 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 11:42:38,443 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 11:42:38,443 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 11:42:38,452 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 11:42:38,453 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 11:42:38,458 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 11:42:38,459 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 11:42:38,468 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 11:42:38,469 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 11:42:38,475 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 11:42:38,475 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 11:42:38,484 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 11:42:38,485 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 11:42:38,493 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 11:42:38,494 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 11:42:38,507 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 11:42:38,507 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 11:42:38,516 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 11:42:38,516 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 11:42:38,529 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 11:42:38,529 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 11:42:38,535 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 11:42:38,536 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 11:42:38,544 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 11:42:38,545 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 11:42:38,551 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 11:42:38,552 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 11:42:38,562 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 11:42:38,563 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 11:42:38,568 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 11:42:38,569 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 11:42:38,579 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 11:42:38,579 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 11:42:38,587 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 11:42:38,587 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 11:42:38,597 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 11:42:38,597 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 11:42:38,604 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 11:42:38,604 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 11:42:38,612 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 11:42:38,613 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 11:42:38,619 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 11:42:38,620 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 11:42:38,626 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 11:42:38,627 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 11:42:38,633 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 11:42:38,634 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 11:42:38,645 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 11:42:38,650 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 11:42:38,651 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:42:38,688 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 11:42:38,692 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 11:42:38,692 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:42:38,770 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 11:47:10,422 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:47:10,423 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:47:11,001 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:47:11,013 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:47:11,014 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:47:11,021 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:47:11,021 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 11:47:11,026 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:47:11,027 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 11:47:11,035 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 11:47:11,036 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 11:47:11,041 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 11:47:11,041 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 11:47:11,048 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 11:47:11,049 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 11:47:11,054 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 11:47:11,055 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 11:47:11,063 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 11:47:11,063 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 11:47:11,069 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 11:47:11,070 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 11:47:11,077 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 11:47:11,077 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 11:47:11,086 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 11:47:11,086 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 11:47:11,093 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 11:47:11,094 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 11:47:11,100 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 11:47:11,100 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 11:47:11,108 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 11:47:11,108 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 11:47:11,113 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 11:47:11,114 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 11:47:11,121 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 11:47:11,122 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 11:47:11,128 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 11:47:11,129 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 11:47:11,136 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 11:47:11,136 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 11:47:11,142 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 11:47:11,142 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 11:47:11,150 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 11:47:11,150 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 11:47:11,156 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 11:47:11,156 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 11:47:11,164 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 11:47:11,164 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 11:47:11,171 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 11:47:11,172 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 11:47:11,180 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 11:47:11,181 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 11:47:11,187 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 11:47:11,187 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 11:47:11,194 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 11:47:11,195 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 11:47:11,201 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 11:47:11,202 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 11:47:11,209 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 11:47:11,209 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 11:47:11,215 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 11:47:11,216 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 11:47:11,226 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 11:47:11,231 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 11:47:11,231 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:47:11,259 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 11:47:11,262 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 11:47:11,263 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:47:11,318 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 11:47:11,388 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 11:47:11,389 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 11:47:11,390 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 11:52:11,353 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 11:52:11,354 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:52:11,955 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 11:52:11,966 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 11:52:11,967 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:52:11,974 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 11:52:11,975 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 11:52:11,980 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 11:52:11,980 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 11:52:11,988 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 11:52:11,988 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 11:52:11,993 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 11:52:11,993 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 11:52:12,001 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 11:52:12,001 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 11:52:12,007 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 11:52:12,007 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 11:52:12,014 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 11:52:12,015 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 11:52:12,020 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 11:52:12,021 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 11:52:12,029 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 11:52:12,029 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 11:52:12,037 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 11:52:12,038 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 11:52:12,046 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 11:52:12,047 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 11:52:12,056 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 11:52:12,057 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 11:52:12,070 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 11:52:12,071 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 11:52:12,076 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 11:52:12,077 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 11:52:12,085 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 11:52:12,086 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 11:52:12,091 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 11:52:12,092 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 11:52:12,101 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 11:52:12,102 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 11:52:12,112 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 11:52:12,112 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 11:52:12,121 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 11:52:12,121 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 11:52:12,128 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 11:52:12,129 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 11:52:12,140 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 11:52:12,140 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 11:52:12,149 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 11:52:12,149 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 11:52:12,157 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 11:52:12,157 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 11:52:12,190 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 11:52:12,192 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 11:52:12,221 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 11:52:12,222 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 11:52:12,243 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 11:52:12,244 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 11:52:12,253 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 11:52:12,254 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 11:52:12,262 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 11:52:12,263 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 11:52:12,276 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 11:52:12,281 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 11:52:12,282 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:52:12,323 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 11:52:12,326 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 11:52:12,326 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 11:52:12,397 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 11:52:12,478 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 11:52:12,479 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 11:52:12,479 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 12:25:39,964 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 12:25:39,965 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:25:40,572 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 12:25:40,584 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 12:25:40,585 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:25:40,592 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 12:25:40,593 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 12:25:40,599 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 12:25:40,599 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 12:25:40,606 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 12:25:40,607 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 12:25:40,612 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 12:25:40,612 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 12:25:40,619 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 12:25:40,620 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 12:25:40,625 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 12:25:40,625 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 12:25:40,632 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 12:25:40,633 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 12:25:40,637 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 12:25:40,638 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 12:25:40,645 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 12:25:40,646 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 12:25:40,654 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 12:25:40,655 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 12:25:40,664 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 12:25:40,664 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 12:25:40,672 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 12:25:40,673 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 12:25:40,683 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 12:25:40,684 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 12:25:40,691 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 12:25:40,691 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 12:25:40,704 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 12:25:40,705 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 12:25:40,714 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 12:25:40,715 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 12:25:40,724 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 12:25:40,725 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 12:25:40,733 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 12:25:40,734 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 12:25:40,743 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 12:25:40,744 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 12:25:40,776 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 12:25:40,782 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 12:25:40,813 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 12:25:40,819 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 12:25:40,834 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 12:25:40,840 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 12:25:40,851 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 12:25:40,852 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 12:25:40,859 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 12:25:40,859 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 12:25:40,870 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 12:25:40,871 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 12:25:40,876 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 12:25:40,877 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 12:25:40,888 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 12:25:40,888 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 12:25:40,894 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 12:25:40,895 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 12:25:40,913 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 12:25:40,923 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 12:25:40,923 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:25:40,958 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 12:25:40,963 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 12:25:40,963 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:25:41,028 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 12:25:41,098 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 12:25:41,099 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 12:25:41,100 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 12:32:44,359 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 12:32:44,359 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:32:44,976 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 12:32:44,988 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 12:32:44,990 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:32:44,997 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 12:32:44,997 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 12:32:45,002 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 12:32:45,003 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 12:32:45,014 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 12:32:45,014 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 12:32:45,021 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 12:32:45,022 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 12:32:45,091 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 12:32:45,120 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 12:32:45,137 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 12:32:45,145 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 12:32:45,157 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 12:32:45,158 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 12:32:45,170 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 12:32:45,171 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 12:32:45,191 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 12:32:45,192 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 12:32:45,203 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 12:32:45,204 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 12:32:45,221 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 12:32:45,223 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 12:32:45,234 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 12:32:45,235 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 12:32:45,248 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 12:32:45,248 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 12:32:45,257 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 12:32:45,257 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 12:32:45,271 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 12:32:45,272 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 12:32:45,283 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 12:32:45,284 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 12:32:45,295 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 12:32:45,296 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 12:32:45,306 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 12:32:45,308 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 12:32:45,320 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 12:32:45,321 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 12:32:45,331 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 12:32:45,332 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 12:32:45,344 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 12:32:45,345 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 12:32:45,351 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 12:32:45,351 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 12:32:45,359 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 12:32:45,360 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 12:32:45,367 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 12:32:45,368 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 12:32:45,382 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 12:32:45,382 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 12:32:45,393 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 12:32:45,393 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 12:32:45,403 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 12:32:45,403 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 12:32:45,412 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 12:32:45,413 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 12:32:45,425 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 12:32:45,430 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 12:32:45,431 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:32:45,463 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 12:32:45,467 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 12:32:45,467 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:32:45,538 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 12:32:45,614 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 12:32:45,615 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 12:32:45,615 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 12:33:18,229 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 12:33:18,230 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:18,819 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 12:33:18,830 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 12:33:18,830 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:18,837 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 12:33:18,837 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 12:33:18,847 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 12:33:18,848 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 12:33:18,855 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 12:33:18,855 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 12:33:18,860 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 12:33:18,861 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 12:33:18,868 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 12:33:18,868 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 12:33:18,873 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 12:33:18,874 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 12:33:18,881 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 12:33:18,882 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 12:33:18,887 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 12:33:18,887 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 12:33:18,895 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 12:33:18,896 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 12:33:18,902 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 12:33:18,903 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 12:33:18,942 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 12:33:18,944 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 12:33:18,954 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 12:33:18,955 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 12:33:18,988 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 12:33:18,995 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 12:33:19,001 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 12:33:19,002 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 12:33:19,012 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 12:33:19,013 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 12:33:19,020 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 12:33:19,021 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 12:33:19,029 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 12:33:19,029 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 12:33:19,036 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 12:33:19,036 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 12:33:19,045 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 12:33:19,046 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 12:33:19,053 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 12:33:19,053 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 12:33:19,063 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 12:33:19,063 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 12:33:19,069 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 12:33:19,070 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 12:33:19,077 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 12:33:19,078 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 12:33:19,086 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 12:33:19,086 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 12:33:19,095 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 12:33:19,096 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 12:33:19,102 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 12:33:19,103 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 12:33:19,111 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 12:33:19,113 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 12:33:19,123 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 12:33:19,123 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 12:33:19,134 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 12:33:19,139 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 12:33:19,140 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:19,173 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 12:33:19,178 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 12:33:19,178 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:19,244 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 12:33:19,312 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 12:33:19,313 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 12:33:19,313 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 12:33:49,472 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:00:20+00:00
+2022-01-02 12:33:49,473 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:50,042 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/activity_20211230.tcx
+2022-01-02 12:33:50,054 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:11:00+00:00
+2022-01-02 12:33:50,054 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:50,061 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:12:00+00:00
+2022-01-02 12:33:50,061 - Training DATA - DEBUG - Inizio LAP #: 2
+2022-01-02 12:33:50,066 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:13:00+00:00
+2022-01-02 12:33:50,066 - Training DATA - DEBUG - Inizio LAP #: 3
+2022-01-02 12:33:50,073 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:14:00+00:00
+2022-01-02 12:33:50,073 - Training DATA - DEBUG - Inizio LAP #: 4
+2022-01-02 12:33:50,078 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:15:00+00:00
+2022-01-02 12:33:50,079 - Training DATA - DEBUG - Inizio LAP #: 5
+2022-01-02 12:33:50,085 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:16:00+00:00
+2022-01-02 12:33:50,086 - Training DATA - DEBUG - Inizio LAP #: 6
+2022-01-02 12:33:50,091 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:17:00+00:00
+2022-01-02 12:33:50,092 - Training DATA - DEBUG - Inizio LAP #: 7
+2022-01-02 12:33:50,102 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:18:00+00:00
+2022-01-02 12:33:50,102 - Training DATA - DEBUG - Inizio LAP #: 8
+2022-01-02 12:33:50,107 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:19:00+00:00
+2022-01-02 12:33:50,107 - Training DATA - DEBUG - Inizio LAP #: 9
+2022-01-02 12:33:50,117 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:20:00+00:00
+2022-01-02 12:33:50,118 - Training DATA - DEBUG - Inizio LAP #: 10
+2022-01-02 12:33:50,123 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:21:00+00:00
+2022-01-02 12:33:50,124 - Training DATA - DEBUG - Inizio LAP #: 11
+2022-01-02 12:33:50,132 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:22:00+00:00
+2022-01-02 12:33:50,133 - Training DATA - DEBUG - Inizio LAP #: 12
+2022-01-02 12:33:50,138 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:23:00+00:00
+2022-01-02 12:33:50,139 - Training DATA - DEBUG - Inizio LAP #: 13
+2022-01-02 12:33:50,147 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:24:00+00:00
+2022-01-02 12:33:50,147 - Training DATA - DEBUG - Inizio LAP #: 14
+2022-01-02 12:33:50,152 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:25:00+00:00
+2022-01-02 12:33:50,153 - Training DATA - DEBUG - Inizio LAP #: 15
+2022-01-02 12:33:50,160 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:26:00+00:00
+2022-01-02 12:33:50,160 - Training DATA - DEBUG - Inizio LAP #: 16
+2022-01-02 12:33:50,166 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:27:00+00:00
+2022-01-02 12:33:50,167 - Training DATA - DEBUG - Inizio LAP #: 17
+2022-01-02 12:33:50,174 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:28:00+00:00
+2022-01-02 12:33:50,174 - Training DATA - DEBUG - Inizio LAP #: 18
+2022-01-02 12:33:50,180 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:29:00+00:00
+2022-01-02 12:33:50,181 - Training DATA - DEBUG - Inizio LAP #: 19
+2022-01-02 12:33:50,189 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:30:00+00:00
+2022-01-02 12:33:50,189 - Training DATA - DEBUG - Inizio LAP #: 20
+2022-01-02 12:33:50,195 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:31:00+00:00
+2022-01-02 12:33:50,196 - Training DATA - DEBUG - Inizio LAP #: 21
+2022-01-02 12:33:50,203 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:32:00+00:00
+2022-01-02 12:33:50,204 - Training DATA - DEBUG - Inizio LAP #: 22
+2022-01-02 12:33:50,209 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:33:00+00:00
+2022-01-02 12:33:50,210 - Training DATA - DEBUG - Inizio LAP #: 23
+2022-01-02 12:33:50,221 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:34:00+00:00
+2022-01-02 12:33:50,222 - Training DATA - DEBUG - Inizio LAP #: 24
+2022-01-02 12:33:50,227 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:35:00+00:00
+2022-01-02 12:33:50,228 - Training DATA - DEBUG - Inizio LAP #: 25
+2022-01-02 12:33:50,235 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:36:00+00:00
+2022-01-02 12:33:50,235 - Training DATA - DEBUG - Inizio LAP #: 26
+2022-01-02 12:33:50,241 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:37:00+00:00
+2022-01-02 12:33:50,242 - Training DATA - DEBUG - Inizio LAP #: 27
+2022-01-02 12:33:50,249 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:38:00+00:00
+2022-01-02 12:33:50,250 - Training DATA - DEBUG - Inizio LAP #: 28
+2022-01-02 12:33:50,257 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:39:00+00:00
+2022-01-02 12:33:50,258 - Training DATA - DEBUG - Inizio LAP #: 29
+2022-01-02 12:33:50,269 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134100.tcx
+2022-01-02 12:33:50,273 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:42:00+00:00
+2022-01-02 12:33:50,273 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:50,302 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2-logbook-workout-20211230_134700.tcx
+2022-01-02 12:33:50,307 - Training DATA - DEBUG - LAP - Start: 2021-12-30 12:01:00+00:00
+2022-01-02 12:33:50,307 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 12:33:50,361 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20211230/concept2_20211230.tcx
+2022-01-02 12:33:50,509 - Training DATA - DEBUG - Garmin - Start: 2021-12-30 13:00:20 - Track start: 2021-12-30 13:00:20 end: 2021-12-30 13:46:25
+2022-01-02 12:33:50,510 - Training DATA - DEBUG - Concept2 - Start: 2021-12-30 13:01:00 - Track start: 2021-12-30 13:01:01 end: 2021-12-30 13:46:59
+2022-01-02 12:33:50,511 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: -40.0
+2022-01-02 23:42:11,593 - Training DATA - DEBUG - LAP - Start: 2022-01-02 13:38:00+00:00
+2022-01-02 23:42:11,593 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 23:42:12,263 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20220102/activity_20220102.tcx
+2022-01-02 23:42:12,285 - Training DATA - DEBUG - LAP - Start: 2022-01-02 13:38:00+00:00
+2022-01-02 23:42:12,285 - Training DATA - DEBUG - Inizio LAP #: 1
+2022-01-02 23:42:12,442 - Training DATA - DEBUG - Succesfully scanned file: C:/Projects/Coxswain2Fit/Data/Activity/20220102/concept2_20220102.tcx
+2022-01-02 23:42:12,514 - Training DATA - DEBUG - Garmin - Start: 2022-01-02 14:38:00 - Track start: 2022-01-02 14:38:00 end: 2022-01-02 15:26:13
+2022-01-02 23:42:12,525 - Training DATA - DEBUG - Concept2 - Start: 2022-01-02 14:38:00 - Track start: 2022-01-02 14:38:01 end: 2022-01-02 15:17:57
+2022-01-02 23:42:12,525 - Training DATA - DEBUG - Garmin vs Concept2 - Difference in sec.: 0.0
