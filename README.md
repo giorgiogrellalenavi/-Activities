@@ -45,6 +45,6 @@ and which may (or may not) contain, among other things, **time**, **latitude** a
 
 To display XML files: https://jsonformatter.org/xml-formatter#Sample
 
-** Allenare il cuore
+#Allenare il cuore
 
 https://www.concept2.it/indoor-rowers/allenamento/suggerimenti-informazioni-generali/frequenza-cardiaca-sotto-sforzo
