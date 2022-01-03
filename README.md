@@ -2,6 +2,8 @@
 
 Idee SCRIPTs da https://github.com/bunburya/fitness_tracker_data_parsing.git
 
+Concetti genarali da https://towardsdatascience.com/parsing-fitness-tracker-data-with-python-a59e7dc17418
+
 # Premessa alle activities
 
 https://www.concept2.it/indoor-rowers/allenamento/suggerimenti-informazioni-generali/stretching
