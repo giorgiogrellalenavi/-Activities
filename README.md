@@ -44,3 +44,7 @@ and which may (or may not) contain, among other things, **time**, **latitude** a
 ![This is an image](https://github.com/giorgiogrellalenavi/Activities/blob/c82c15d02e62a893e4074f230caae70925b38ec6/Data/Images/hierarchy_TCX_files.JPG)
 
 To display XML files: https://jsonformatter.org/xml-formatter#Sample
+
+** Allenare il cuore
+
+https://www.concept2.it/indoor-rowers/allenamento/suggerimenti-informazioni-generali/frequenza-cardiaca-sotto-sforzo
